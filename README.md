@@ -25,9 +25,9 @@ I am a software developer, content creator, and geospatial engineer passionate a
 ## 📝 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GeoDjango & React Tutorial #10](https://youtu.be/769ehptAdWA?si=K8Bt9J-PKakkIsT4)
 - [GeoDjango & React Tutorial #9](https://youtu.be/kJvJaQ0_3kA)
 - [GeoDjango & React Tutorial #8](https://youtu.be/rFhXmIZMo3Y?si=DeKxG-VnSK7PBivO)
-- [GeoDjango & React Tutorial #7](https://youtu.be/5AC2tZHSZsM?si=H7xlSLwYGvDTWGtw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/channel/UCGQiFQyfPSoOgVhLRiuEXTQ?sub_confirmation=1)
