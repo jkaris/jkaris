@@ -8,7 +8,7 @@
 
 ---
 
-I am a software developer, content creator, and geospatial engineer passionate about helping people learn web development and mapping. I like utilizing Python, JavaScript, and SQL to solve challenging issues effectively. I am motivated by the desire to provide significant solutions that enhance the Internet in whatever manner I can.
+I am a software developer, content creator, and geospatial engineer passionate about helping people learn web development and geographic information systems. I like utilizing Python, JavaScript, and SQL to solve challenging issues effectively. I am motivated by the desire to provide significant solutions that enhance the Internet in whatever manner I can.
 
 - 🔭 Currently working as a freelance software developer
 
