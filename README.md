@@ -11,7 +11,7 @@ I am a software developer, content creator, and geospatial engineer passionate a
 
 - 🔭 Currently working as a freelance software developer
 
-- 🌱 Writing from time to time on [my website](https://josephkariuki.com/articles/) and [medium](https://jkariukidev.medium.com)
+- 🌱 Visit [my website](https://josephkariuki.com) and [medium](https://jkariukidev.medium.com) for more
 
 ---
 
